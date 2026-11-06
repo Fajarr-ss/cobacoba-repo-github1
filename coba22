@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Web Pertamaku di Vercel</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; margin-top: 50px; background: #f4f4f9; }
+        h1 { color: #0070f3; }
+    </style>
+</head>
+<body>
+    <h1>Halo Dunia! 🚀</h1>
+    <p>Website ini berhasil di-deploy ke Vercel.</p>
+</body>
+</html>
